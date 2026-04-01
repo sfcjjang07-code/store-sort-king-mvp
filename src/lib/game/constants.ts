@@ -1,0 +1,11 @@
+export const STORAGE_KEY = 'store-sort-king-save-v1';
+export const MATCH_COUNT = 3;
+export const BASE_SHELF_CAPACITY = 5;
+export const BASE_CLEAR_SCORE = 100;
+export const BASE_COMBO_WINDOW_MS = 3000;
+export const DANGER_THRESHOLD_OFFSET = 1;
+export const BASE_RUSH_WINDOW_MS = 2800;
+export const RUSH_MIN_WINDOW_MS = 1450;
+export const RUSH_WINDOW_DECAY_MS = 120;
+export const RUSH_SPEED_UP_EVERY_TURNS = 8;
+export const MAX_MISSED_RUSH_DROPS = 3;
